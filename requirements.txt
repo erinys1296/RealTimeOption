@@ -1,0 +1,16 @@
+dash==2.14.1
+plotly==5.17.0
+pandas==2.1.1
+numpy==1.24.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+gunicorn==21.2.0
+shioaji==1.2.3
+pydantic<2.0.0
+
+# 快取相關
+Flask-Caching==2.1.0
+
+# 日期時間處理
+python-dateutil==2.8.2
+
